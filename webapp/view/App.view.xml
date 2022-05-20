@@ -4,5 +4,6 @@
     xmlns="sap.m">
     <App id="app">
         <Label id="checkLabel" text="Check!"/>
+        <Button id="_IDGenButton1" text="Check"/>
     </App>
 </mvc:View>
